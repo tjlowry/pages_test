@@ -11,4 +11,7 @@ page-layout: full
 title-block-banner: true
 ---
 
+# my title
+
+this is why you should hire
 
